@@ -31,7 +31,7 @@ I’m adept at using **Git** and **GitHub** for version control and project coll
 
 ## 💼 Featured Projects
 
-### [🌐 Portfolio Website (React)](https://github.com/HeyThereParth/MyPortfolio)
+### [🌐 Portfolio Website (React)](https://my-portfolio-eight-omega-52.vercel.app/)
 A sleek, responsive personal portfolio built with **React.js** that showcases my development skills and past work.
 
 ### [📝 AI Resume Builder](https://github.com/HeyThereParth/ResuMate)

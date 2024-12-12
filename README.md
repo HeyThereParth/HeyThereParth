@@ -42,8 +42,8 @@ An AI-powered tool that assists users in creating professional resumes in no tim
 ---
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/parth-gupta-86b23b222)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:heyparth2004@gmail.com)
 
 ---
 
